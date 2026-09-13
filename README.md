@@ -2,7 +2,7 @@
 
 产品策划方案的交互演示。所有岗位、公司、会话和个人资料均为虚构示例。
 
-[打开小火箭在线 Demo](https://zhan820.github.io/rocket-resume-demo/)
+[打开小火箭在线 Demo](https://rocket-resume-demo-zhan820.lkhnj.chatgpt.site/)
 
 支持岗位筛选与资料匹配、招呼草稿审核、HR 索要简历后的逐次确认、模拟官网网申、重复提交拦截，以及提交后断网的结果核验。
 
